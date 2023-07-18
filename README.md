@@ -1,1 +1,1 @@
-# calculadora_v1
+Uma calculadora web feita em HTML, CSS e JavaScript com funções simples.
